@@ -23,7 +23,7 @@ export function Project() {
             </header>
             <div className="body">
               <h3>GITHUB CLONE</h3>
-              <div><img src="./Images/olx.jpeg" alt="Github Clone" width="320" height="250"/> </div>
+              <div><img src="./Images/olx.jpeg" alt="Github Clone" width="300" height="250"/> </div>
               <p> This is a comprehensive Next.js GitHub Homepage template that incorporates powerful and popular web development libraries and practices. </p>
             </div>
             <footer> <ul className="tech-list"> <li>React.js</li> <li>Next.js</li> <li>Tailwind CSS</li> <li>Framer Motion</li> </ul> </footer>
@@ -43,7 +43,7 @@ export function Project() {
             </header>
             <div className="body">
               <h3>OLX-CLONE</h3>
-              <div><img src="./Images/Netflix2.png" alt="OLX Clone" width="320" height="250" /> </div>
+              <div><img src="./Images/Netflix2.png" alt="OLX Clone" width="300" height="250" /> </div>
               <p>
               Olx-Clone is the potential classified advertisement website that categorizes objects in a user-friendly manner & displayed as an advertisement.., Classifieds can be posted that involve selling, buying, exchanging and will be adding a new feture that organizing to meet people nearby your location.
               </p>
@@ -76,7 +76,7 @@ export function Project() {
             </header>
             <div className="body">
               <h3>NETFLIX-CLONE</h3>
-              <div><img src="./Images/Netflix.png" alt="Netflix Ent Clone" width="320" height="250"/> </div>
+              <div><img src="./Images/Netflix.png" alt="Netflix Ent Clone" width="300" height="250"/> </div>
               <p>
               In this small project you can play trailers of the Movies..,but I will be provide regualar updates with more features and functionalities because the entertainment industry is one of the largest online service businesses. The number of people seeking online entertainment is increasing rapidly. Increased leisure time and easier access to entertainment is driving the market forward.
               </p>
@@ -106,7 +106,7 @@ export function Project() {
             </header>
             <div className="body">
               <h3>HEART DISEASE & BREAST CANCER PREDICTION</h3>
-              <div><img src="./Images/health.jpeg" alt="Health" width="320" height="250"/> </div>
+              <div><img src="./Images/health.jpeg" alt="Health" width="300" height="250"/> </div>
               <p>Diagnosing Malignant versus Benign Breast Tumours via Machine Learning Techniques in High Dimensions. Logistc Regression, SVM and Decision Tree methods to classify data.Machine Learning project to predict heart diseases. Predicting chance of heart disease in people using Regression and Decision Tree algorithms</p>
             </div>
             <footer>
@@ -138,7 +138,7 @@ export function Project() {
             </header>
             <div className="body">
               <h3>CAR PRICE PREDICTION</h3>
-              <div><img src="./Images/CAR.jpeg" alt="CAR" width="320" height="250"/> </div>
+              <div><img src="./Images/CAR.jpeg" alt="CAR" width="300" height="250"/> </div>
               <p>I'll use various machine learning algorithms to predict the price of used cars. Machine learning model with linear regression for car price prediction</p>
             </div>
             <footer>
@@ -166,7 +166,7 @@ export function Project() {
             </header>
             <div className="body">
               <h3>CREDIT RISK ANALYSIS</h3>
-              <div><img src="./Images/credit.jpeg" alt="CREDIT" width="320" height="250"/> </div>
+              <div><img src="./Images/credit.jpeg" alt="CREDIT" width="300" height="250"/> </div>
               <p>
               Developed a highly accurate credit risk classification model using XGBoost, achieving 100% precision, recall, and F1-scores for predicting loan defaults.Implemented rigorous data preprocessing, feature engineering, and hyperparameter tuning on imbalanced credit risk data, employing ensemble methods, cross-validation, and model interpretation techniques.
               </p>
