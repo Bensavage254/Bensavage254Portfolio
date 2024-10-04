@@ -17,7 +17,7 @@ export function Project() {
               <div className="project-links">
                 <a href="https://github.com/Bensavage254/Bensavage254-GitHub-Clone" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /></a>
-                <a href="bensavage254-git-hub-clone.vercel.app" target="_blank" rel="noreferrer">
+                <a href="https://bensavage254-git-hub-clone.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a> </div>
             </header>
@@ -37,7 +37,7 @@ export function Project() {
               <div className="project-links">
                 <a href="https://github.com/Bensavage254/Bensavage254-Amazon-Clone" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="bensavage254-amazon-clone.vercel.app" target="_blank" rel="noreferrer">
+                <a href="https://bensavage254-amazon-clone.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
@@ -69,7 +69,7 @@ export function Project() {
                 <a href="https://github.com/Bensavage254/Bensavage254-Netflix-Clone" target="\_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="bensavage254-netflix-clone.vercel.app" target="\_blank" rel="noreferrer">
+                <a href="https://bensavage254-netflix-clone.vercel.app/" target="\_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
