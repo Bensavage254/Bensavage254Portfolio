@@ -28,7 +28,7 @@ export function Hero() {
           <h3>and a Jr Data Scientist~Data Analyst.</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={1 * 1000}>
-          <p className="small-resume">1 Years of Personal~Project Experience.</p>
+          <p className="small-resume">1 Years of Personal Guided Projects Experience.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={1.2 * 1000}>
           <BrowserRouter>

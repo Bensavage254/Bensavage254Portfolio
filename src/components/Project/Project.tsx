@@ -15,15 +15,15 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"> <title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="#" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Bensavage254/Bensavage254-GitHub-Clone" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /></a>
-                <a href="#" target="_blank" rel="noreferrer">
+                <a href="bensavage254-git-hub-clone.vercel.app" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a> </div>
             </header>
             <div className="body">
               <h3>GITHUB CLONE</h3>
-              <div><img src="./Images/olx.jpeg" alt="Github Clone" width="300" height="250"/> </div>
+              <div><img src="./Images/Githubclone.png" alt="Github Clone" width="300" height="250"/> </div>
               <p> This is a comprehensive Next.js GitHub Homepage template that incorporates powerful and popular web development libraries and practices. </p>
             </div>
             <footer> <ul className="tech-list"> <li>React.js</li> <li>Next.js</li> <li>Tailwind CSS</li> <li>Framer Motion</li> </ul> </footer>
@@ -35,17 +35,17 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="#" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Bensavage254/Bensavage254-Amazon-Clone" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="#" target="_blank" rel="noreferrer">
+                <a href="bensavage254-amazon-clone.vercel.app" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
             <div className="body">
-              <h3>OLX-CLONE</h3>
-              <div><img src="./Images/Netflix2.png" alt="OLX Clone" width="300" height="250" /> </div>
+              <h3>AMAZON CLONE</h3>
+              <div><img src="./Images/Amazonclone.png" alt="Amazon Clone" width="300" height="250" /> </div>
               <p>
-              Olx-Clone is the potential classified advertisement website that categorizes objects in a user-friendly manner & displayed as an advertisement.., Classifieds can be posted that involve selling, buying, exchanging and will be adding a new feture that organizing to meet people nearby your location.
+              Developed a fully functional e-commerce web application inspired by Amazon using React.js for the front-end and Firebase for backend services. Implemented core features such as product browsing, shopping cart functionality, and secure payment processing. Built responsive and dynamic user interfaces with React Hooks and React Router for seamless navigation between product categories and user account pages
               </p>
             </div>
             <footer>
@@ -66,10 +66,10 @@ export function Project() {
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
               </svg>
               <div className="project-links">
-                <a href="#" target="\_blank" rel="noreferrer">
+                <a href="https://github.com/Bensavage254/Bensavage254-Netflix-Clone" target="\_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="#" target="\_blank" rel="noreferrer">
+                <a href="bensavage254-netflix-clone.vercel.app" target="\_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
